@@ -86,4 +86,4 @@ find (find utility)
 (find here file with size 1033 bytes which is not (! sign) executable and pipe with xargs)<br/>
 (find for unique string which occures only once in file: `cat data.txt | sort | uniq -u`)<br/>
 
-pass for DXjZPULLxYr17uwoI01bNLQbtFemEgo7 `ssh bandit6@bandit.labs.overthewire.org -p 2220` url: https://overthewire.org/wargames/bandit/bandit7.html
+pass  DXjZPULLxYr17uwoI01bNLQbtFemEgo7 for `ssh bandit6@bandit.labs.overthewire.org -p 2220` url: https://overthewire.org/wargames/bandit/bandit7.html
